@@ -8,6 +8,7 @@ import { HistoriaComponent } from './historia/historia.component';
 import { MapaComponent } from './mapa/mapa.component';
 import { KinoComponent } from './kino/kino.component';
 import { TeatrComponent } from './teatr/teatr.component';
+import { SportComponent } from './sport/sport.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { TeatrComponent } from './teatr/teatr.component';
     HistoriaComponent,
     MapaComponent,
     KinoComponent,
-    TeatrComponent
+    TeatrComponent,
+    SportComponent
   ],
   imports: [
     BrowserModule,

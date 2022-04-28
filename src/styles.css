@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+html{
+    background-color: burlywood;
+   
+}
+table{
+    text-align: center;
+    
+}
+tr{
+    background-color:bisque;
+    border: 2px solid black;
+}
+div{
+    background-color: bisque;
+    width:fit-content;
+    height: fit-content;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+}
